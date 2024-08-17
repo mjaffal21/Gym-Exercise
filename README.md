@@ -2,6 +2,8 @@
 
 Welcome to **Golds Gym**, the ultimate fitness app designed to help you discover and perform a wide range of exercises! This app leverages the power of RapidAPI's ExerciseDB and YouTube Search APIs to bring you an extensive database of exercises with practical examples and related video content.
 
+- Live Demo: https://gym-exercise-f8j3.onrender.com
+
 ## Features
 
 - **Exercise Categories & Muscle Groups**: Easily browse exercises by categories and target specific muscle groups.
