@@ -34,7 +34,7 @@ To get started with the Golds Gym app, follow these steps:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd golds-gym
+   cd gym-exercise
    ```
 
 3. **Install dependencies:**
